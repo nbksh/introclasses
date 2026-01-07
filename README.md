@@ -1,2 +1,2 @@
 # introclasses
-Learning the Basics of C++
+Learning the Basics of python
